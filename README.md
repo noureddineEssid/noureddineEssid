@@ -1,22 +1,28 @@
-# [Noureddine ESSID]
+# Noureddine ESSID
 
 ## About Me
 
-Hello! I'm [Noureddine ESSID], and I'm passionate about [mention your interests, such as software development, data science, machine learning, or any other relevant field]. I'm currently based in [Your Location] and enjoy [mention some of your hobbies or interests outside of work or coding].
+Hello! I'm Noureddine ESSID, and I'm passionate about software development, data science, machine learning. I'm currently based in Paris and when I'm not coding or working on exciting projects, you'll often find me indulging in my other interests:
 
-## 🔭 Currently Working On
+- **Hiking:** I love exploring the great outdoors and going on long hikes to beautiful natural destinations.
+- **Cooking:** Experimenting with new recipes and cuisines from around the world is a delightful hobby of mine.
+- **Gaming:** I'm an avid gamer and enjoy both video games and board games with friends and family.
+- **Reading:** I'm a bookworm, and you can often catch me with my nose buried in a good book.
+- **Travel:** I have a wanderlust for exploring new places, cultures, and cuisines.
 
-- [Project 1 Name]: A brief description of Project 1.
-- [Project 2 Name]: A brief description of Project 2.
-- ...
+## 🔭 Currently Working for a client:
+
+- **Stellantis:** I'm currently leading a project called "Stellantis," where we're developing innovative solutions for the automotive industry. Our goal is to revolutionize the way vehicles are powered, controlled, and integrated into the broader transportation ecosystem. This project involves cutting-edge technologies like electric propulsion, autonomous driving, and connected car systems. I'm excited to be part of a team that's shaping the future of mobility.
 
 ## 🌱 I'm Learning
 
-I'm always eager to expand my knowledge, and I'm currently learning:
+I'm always eager to expand my knowledge, and I'm currently diving into the following technologies and topics:
 
-- [Technology/Topic 1]: A brief description of what you're learning about this technology or topic.
-- [Technology/Topic 2]: A brief description of what you're learning about this technology or topic.
-- ...
+- **Web Development with Python, Django, JavaScript, TypeScript, and PHP:** I'm deepening my understanding of machine learning techniques and algorithms using Python. I'm working on projects that involve natural language processing, computer vision, and predictive modeling.Web
+
+- **Containerization with Docker and Kubernetes:** Learning to containerize applications and manage them efficiently using Docker and Kubernetes. It's a crucial skill in modern software development and deployment.
+
+- **Front-End Web Development with Reactjs, NextJS, VueJS and Angular:** I'm enhancing my front-end development skills by working with modern web technologies like React and Vue.js. Building responsive and interactive web applications is both challenging and rewarding.
 
 ## 💬 Let's Connect
 
