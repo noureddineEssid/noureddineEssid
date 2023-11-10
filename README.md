@@ -22,14 +22,14 @@ I'm always eager to expand my knowledge, and I'm currently diving into the follo
 
 ## 💬 Let's Connect
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername), [Twitter](https://twitter.com/yourusername), or [Email](mailto:youremail@example.com). I'm always open to interesting discussions and collaborations.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/noureddine-essid-56499678), [Twitter](https://twitter.com/essidnoureddine), or [Email](mailto:noureddinesid@gmail.com). I'm always open to interesting discussions and collaborations.
 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [Noureddine ESSID](https://www.linkedin.com/in/noureddine-essid-56499678)
+- Twitter: [@YourTwitterHandle](https://twitter.com/essidnoureddine)
+- Email: [youremail@example.com](mailto:noureddinesid@gmail.com)
 
 ## ⚡ Fun Fact
 
