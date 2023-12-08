@@ -31,8 +31,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/noureddin
 - Twitter: [@YourTwitterHandle](https://twitter.com/essidnoureddine)
 - Email: [youremail@example.com](mailto:noureddinesid@gmail.com)
 
-## ⚡ Fun Fact
-
-[Share a fun or interesting fact about yourself that can spark curiosity or conversation.]
-
 Thanks for stopping by! 😊
