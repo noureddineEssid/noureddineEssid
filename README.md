@@ -29,6 +29,6 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/noureddin
 
 - LinkedIn: [Noureddine ESSID](https://www.linkedin.com/in/noureddine-essid-56499678)
 - Twitter: [@YourTwitterHandle](https://twitter.com/essidnoureddine)
-- Email: [youremail@example.com](mailto:noureddinesid@gmail.com)
+- Email: [noureddinesid@gmail.com](mailto:noureddinesid@gmail.com)
 
 Thanks for stopping by! 😊
