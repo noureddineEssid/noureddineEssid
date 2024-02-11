@@ -28,7 +28,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/noureddin
 ## 📫 How to Reach Me
 
 - LinkedIn: [Noureddine ESSID](https://www.linkedin.com/in/noureddine-essid-56499678)
-- Twitter: [@YourTwitterHandle](https://twitter.com/essidnoureddine)
+- Twitter: [Noureddine ESSID](https://twitter.com/essidnoureddine)
 - Email: [noureddinesid@gmail.com](mailto:noureddinesid@gmail.com)
 
 Thanks for stopping by! 😊
