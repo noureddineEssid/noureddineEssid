@@ -1,7 +1,5 @@
 **Noureddine ESSID**
 
-**Passionné par l'informatique et l'exploration du monde**
-
 ## À Propos de Moi
 
 Je suis Noureddine ESSID, un développeur logiciel enthousiaste basé à Paris. Je suis fasciné par la puissance de la technologie et son potentiel pour améliorer nos vies. Quand je ne suis pas plongé dans le code ou en train de créer de nouveaux projets, vous me trouverez probablement en train de parcourir de nouveaux sentiers, de savourer des cuisines exotiques ou de m'immerger dans un bon livre.
@@ -25,9 +23,8 @@ Je suis Noureddine ESSID, un développeur logiciel enthousiaste basé à Paris. 
 
 Je suis un apprenti perpétuel et j'aime constamment élargir mes connaissances. Actuellement, je me concentre sur:
 
-* **Apprentissage automatique profond:** Explorer les applications de pointe de l'IA dans divers domaines.
+* **Apprentissage automatique:** Explorer les applications de pointe de l'IA dans divers domaines.
 * **Développement DevOps:** Automatiser les processus de développement et de déploiement pour une efficacité accrue.
-* **Création de contenu:** Partager mes connaissances et mes expériences à travers des articles, des tutoriels et des présentations.
 
 ## Restons Connectés
 
