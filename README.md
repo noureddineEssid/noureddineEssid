@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 - 🌱 I’m constantly learning and exploring new technologies to stay up-to-date with industry trends.
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 💬 Ask me about anything related to programming, and I'll be happy to help!
-- 📫 How to reach me: [noureddine.essid@example.com](mailto:noureddine.essid@example.com)
+- 📫 How to reach me: [noureddinesid@gmail.com](mailto:noureddinesid@gmail.com)
 - ⚡ Fun fact: I enjoy engaging in various activities and learning new technologies in my free time.
 
 ## 🛠️ Technologies & Tools
