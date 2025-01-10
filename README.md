@@ -38,7 +38,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 - [Click&Eat](https://click-and-eat.vercel.app) - An online platform for ordering food from various restaurants with real-time tracking and delivery features.
 - [Click&Work](https://click-and-work.vercel.app) - A project management tool designed to enhance team collaboration and productivity with task tracking and reporting.
 - [Click&Go](https://click-and-go.vercel.app) - A travel planning application that helps users find the best travel deals and itineraries.
-- [Ideal House](https://ideal-house.vercel.app) - A real estate platform for finding and listing properties with advanced search and filtering options.
 
 ## 📫 Connect with Me
 
