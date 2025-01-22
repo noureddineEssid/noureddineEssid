@@ -32,10 +32,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 
 ![Noureddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=noureddineEssid&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noureddineEssid&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=noureddineEssid&theme=radical&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=noureddineEssid&theme=radical&no-frame=true&margin-w=5)
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=noureddineEssid&theme=radical)](https://github.com/noureddineEssid)
-![GitHub Metrics](https://github.com/noureddineEssid/github-metrics/blob/main/github-metrics.svg)
 
 
 ## 🛠️ Latest Projects
